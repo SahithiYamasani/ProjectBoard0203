@@ -31,13 +31,12 @@ Here are the key points about how GitHub Projects and Kanban can help our group 
 * __Streamlined workflow:__ Kanban's focus on limiting work in progress helps maintain a steady flow of tasks, reducing multitasking and increasing productivity. By setting appropriate work in progress limits, you can optimize your workflow.
 * __Adaptability and continuous improvement:__ GitHub Projects and Kanban boards are highly customizable, allowing you to tailor them to fit your project's specific needs. This flexibility enables continuous improvement and adjustment based on the lessons learned from previous group projects.
 <br></br>
-<br></br>
-<br></br>
+
 __<br>Paste a clickable link to your group board:</br>__
 <br>https://github.com/orgs/ProjectBoard0203/projects/1/views/1</br>
 <br>https://github.com/orgs/ProjectBoard0203/projects/1/views/2</br>
 __<br>Paste a clickable link to your group repository (or attach your Word doc):</br>__
-
+<br>https://github.com/SahithiYamasani/ProjectBoard0203/tree/main</br>
 __<br>About how many hours did the group spend on this assignment:</br>__
 <br>Our group spent approximately 20 hours collectively on this assignment. We allocated time for planning, setting up the Kanban board on GitHub, defining user stories, assigning tasks, and regularly updating and maintaining the board throughout the project duration.</br>
 __<br>In general, how did it go:</br>__
