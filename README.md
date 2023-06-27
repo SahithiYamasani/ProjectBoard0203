@@ -1,4 +1,6 @@
-# Learning Management System
+<img alt="github" src="https://github.com/SahithiYamasani/ProjectBoard0203/blob/main/Picture1.jpg" height="130">
+
+# Learning Management System 
 
 ## Project Links
 
