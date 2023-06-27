@@ -15,12 +15,12 @@
 |Ramineni,Pooja Sri	|s559300	|Poojasriramineni| https://github.com/Poojasriramineni |
 
 ## Working with Project Boards.
-* GitHub Projects is a feature that helps organize and track work, allowing you to create boards with columns representing different stages or statuses of tasks.
-* Kanban boards are visual tools that implement the Kanban methodology, with columns representing stages of work, and cards representing individual tasks or stories.
-*	Both GitHub Projects and Kanban boards provide a visual representation of tasks, enabling easy understanding of progress and status briefly.
-*	Collaboration and transparency are promoted, as team members can see the status of tasks, who is assigned to them, and participate in discussions or comments.
-*	Prioritization and focus are facilitated by organizing stories, ensuring alignment and productivity.
-*	Flexibility and adaptability are offered, allowing customization of workflows, columns, and labels to suit specific project needs.
+* The GitHub Projects feature serves as a tool for organizing and monitoring work, enabling the creation of boards with columns that represent different stages or statuses of tasks
+* Kanban boards are visual instruments that implement the Kanban methodology, utilizing columns to represent work stages and cards to represent individual tasks or stories
+*	Both GitHub Projects and Kanban boards provide a visual depiction of tasks, making it easy to grasp the progress and status in a concise manner.
+*	Collaboration and transparency are fostered as team members can view task statuses, assignees, and engage in discussions or comments.
+*	Prioritization and focus are enhanced by structuring stories, ensuring alignment and boosting productivity.
+*	Flexibility and adaptability are offered, allowing customization of workflows, columns, and labels to cater to specific project requirements.
 
 ## Possible Applications
 Here are the key points about how GitHub Projects and Kanban can help our group in future projects:
