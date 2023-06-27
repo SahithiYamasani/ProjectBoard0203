@@ -1,4 +1,4 @@
-<img alt="github" src="https://github.com/SahithiYamasani/ProjectBoard0203/blob/main/Capture.PNG" height="100">
+<img  alt="LMS" src="https://github.com/SahithiYamasani/ProjectBoard0203/blob/main/Capture.PNG" height="100"/>
 
 # Learning Management System 
 
